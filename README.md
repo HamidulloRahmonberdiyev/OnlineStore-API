@@ -16,9 +16,9 @@ For online stores. This project intended home devices.
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Purpose
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+I'm purpose was did this project for learn. It's my first API project.
 
 
 
